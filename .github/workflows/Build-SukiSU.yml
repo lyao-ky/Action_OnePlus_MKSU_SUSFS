@@ -9,7 +9,7 @@ on:
       FEIL:
         description: "配置文件"
         required: true
-        default: 'oneplus_ace3_pro_v'
+        default: 'oneplus_ace5'
       CPUD:
         description: "处理器代号"
         required: true
@@ -25,7 +25,7 @@ on:
       KERNEL_NAME:
         description: "修改内核名称"
         required: true
-        default: '-android14-11-o-g1132d864665d'
+        default: '-114514-咸DAMN黄炒饭🍥'
       kernelsu_variant:
         description: "选择 KSU"
         required: true
